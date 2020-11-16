@@ -1433,11 +1433,11 @@ input[type='checkbox'] {
 }
 
 .lightbox-basic .line-heading {
-	width: 3rem;
+	width: rem;
 	height: 1px;
 	margin-top: 0;
 	margin-bottom: 0.625rem;
-	margin-left: 0;
+	margin-left: 0rem;
 	border: none;
 	background-color: #fd3434;
 }
