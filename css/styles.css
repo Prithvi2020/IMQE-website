@@ -807,6 +807,7 @@ input[type='checkbox'] {
 /*     05. Intro     */
 /*********************/
 .basic-1 {
+  background-color:#f0f0f0;
 	padding-top: 6.5rem;
 	padding-bottom: 3rem;
 }
@@ -859,6 +860,7 @@ input[type='checkbox'] {
 	margin-bottom: 2.5rem;
 	border: none;
 	text-align: center;
+  background-color: #f0f0f0;
 }
 
 .cards-1 .fa-stack {
@@ -1085,6 +1087,7 @@ input[type='checkbox'] {
 .tabs .nav-link:hover,
 .tabs .nav-link.active {
 	color: #fd3434;
+  background-color: #f0f0f0;
 }
 
 .tabs .nav-link .fas {
